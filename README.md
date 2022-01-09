@@ -1,1 +1,1 @@
-# FPGA_bandwidth
+# The repository is about bandwidth estimation on highspeed FPGA
